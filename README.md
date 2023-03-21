@@ -14,7 +14,8 @@ It will Need :
 Oculus quest 2 VR device to Run the game perfectly however other VR will also work but their
 controllers can't.
 
-It has Authentication Feature :
+It has Authentication Feature : ![Screenshot 2023-03-21 073444](https://user-images.githubusercontent.com/98886868/226525875-7cfb3758-cda1-44b5-9ca7-d1f4d8b1a825.png)
+                                SAME PASSWORD for all : 123456789
 
 Game has
 Authetication functionality for the student user ID , here I will added some
