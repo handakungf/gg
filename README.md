@@ -1,5 +1,6 @@
 # gg
 This project is built in Unreal Engine version 5.0, you can fetch the code into unreal engine 5.0 to get the project
+our file was more than 100mb, usaully unreal engine files not comes in github. but we tried our best to do so.
 [Presentation.pdf](https://github.com/handakungf/gg/files/11025213/Presentation.pdf)
 
 From Team Anjaniputra
